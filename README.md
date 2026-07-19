@@ -21,6 +21,12 @@ This project demonstrates how network traffic can be captured, monitored, and an
 - Kali Linux
 - Wireshark
 - Zeek
+
+ ## 👨‍💻 Author
+
+Ashvath Sharma
+
+B.Tech CSE | Cybersecurity Academic Project
 - TCPDump
 
 ---
