@@ -2,7 +2,8 @@
 Network Traffic Analysis Using Wireshark and Zeek
 Educational Project
 Author: Ashvath Sharma
-"""from scapy.all import rdpcap
+"""
+from scapy.all import rdpcap
 
 def analyze_packets(file):
     packets = rdpcap(file)
